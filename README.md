@@ -6,7 +6,7 @@
 
 <div align="center">
   <img
-    src="./assets/readme_img.jpeg"
+    src="./assets/readme_img_alpha.webp"
     width="200"
     height="200"
     alt="Profile image placeholder"
