@@ -15,7 +15,7 @@
   <h1>[Jason Lee] 𝑭𝒓𝒂𝒈𝑩𝒆𝒂𝒓</h1>
 
   <p>
-    <samp>I love tinkering and DIYing stuff!</samp>
+    <samp>I'm a senior majoring in CE at Seoul National University of Science and Technology, I love tinkering and DIYing stuff!</samp>
   </p>
 </div>
 
